@@ -1,0 +1,6 @@
+C:\Users\LloydChr\source\repos\PingIPandHostTester\PingIPandHostTester\bin\Debug\PingIPandHostTester.exe
+C:\Users\LloydChr\source\repos\PingIPandHostTester\PingIPandHostTester\bin\Debug\PingIPandHostTester.pdb
+C:\Users\LloydChr\source\repos\PingIPandHostTester\PingIPandHostTester\obj\Debug\PingIPandHostTester.csprojAssemblyReference.cache
+C:\Users\LloydChr\source\repos\PingIPandHostTester\PingIPandHostTester\obj\Debug\PingIPandHostTester.csproj.CoreCompileInputs.cache
+C:\Users\LloydChr\source\repos\PingIPandHostTester\PingIPandHostTester\obj\Debug\PingIPandHostTester.exe
+C:\Users\LloydChr\source\repos\PingIPandHostTester\PingIPandHostTester\obj\Debug\PingIPandHostTester.pdb
